@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/jcfws_ios/!svn/ver/303/trunk/%E6%9C%8D%E5%8A%A1%E4%B8%80%E7%82%B9%E9%80%9A(%E6%9C%8D%E5%8A%A1%E5%95%86%E7%89%88)/IOS/JinCheng/JinCheng/BaseViewCoontroller/TTTableview/SlimeRefresh
+END
+SRSlimeView.h
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/jcfws_ios/!svn/ver/303/trunk/%E6%9C%8D%E5%8A%A1%E4%B8%80%E7%82%B9%E9%80%9A(%E6%9C%8D%E5%8A%A1%E5%95%86%E7%89%88)/IOS/JinCheng/JinCheng/BaseViewCoontroller/TTTableview/SlimeRefresh/SRSlimeView.h
+END
+sr_refresh@2X.png
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/jcfws_ios/!svn/ver/303/trunk/%E6%9C%8D%E5%8A%A1%E4%B8%80%E7%82%B9%E9%80%9A(%E6%9C%8D%E5%8A%A1%E5%95%86%E7%89%88)/IOS/JinCheng/JinCheng/BaseViewCoontroller/TTTableview/SlimeRefresh/sr_refresh@2X.png
+END
+SRRefreshView.h
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/jcfws_ios/!svn/ver/303/trunk/%E6%9C%8D%E5%8A%A1%E4%B8%80%E7%82%B9%E9%80%9A(%E6%9C%8D%E5%8A%A1%E5%95%86%E7%89%88)/IOS/JinCheng/JinCheng/BaseViewCoontroller/TTTableview/SlimeRefresh/SRRefreshView.h
+END
+SRSlimeView.m
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/jcfws_ios/!svn/ver/303/trunk/%E6%9C%8D%E5%8A%A1%E4%B8%80%E7%82%B9%E9%80%9A(%E6%9C%8D%E5%8A%A1%E5%95%86%E7%89%88)/IOS/JinCheng/JinCheng/BaseViewCoontroller/TTTableview/SlimeRefresh/SRSlimeView.m
+END
+SRDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/jcfws_ios/!svn/ver/303/trunk/%E6%9C%8D%E5%8A%A1%E4%B8%80%E7%82%B9%E9%80%9A(%E6%9C%8D%E5%8A%A1%E5%95%86%E7%89%88)/IOS/JinCheng/JinCheng/BaseViewCoontroller/TTTableview/SlimeRefresh/SRDefine.h
+END
+sr_refresh.png
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/jcfws_ios/!svn/ver/303/trunk/%E6%9C%8D%E5%8A%A1%E4%B8%80%E7%82%B9%E9%80%9A(%E6%9C%8D%E5%8A%A1%E5%95%86%E7%89%88)/IOS/JinCheng/JinCheng/BaseViewCoontroller/TTTableview/SlimeRefresh/sr_refresh.png
+END
+SRRefreshView.m
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/jcfws_ios/!svn/ver/303/trunk/%E6%9C%8D%E5%8A%A1%E4%B8%80%E7%82%B9%E9%80%9A(%E6%9C%8D%E5%8A%A1%E5%95%86%E7%89%88)/IOS/JinCheng/JinCheng/BaseViewCoontroller/TTTableview/SlimeRefresh/SRRefreshView.m
+END
